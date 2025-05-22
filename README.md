@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Thaynara Falcão, tenho 24 anos e sou natural do Ceará mas moro em São Paulo. Atualmente, estou cursando Sistemas para Internet na Uniasselvi. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Thaynara Falcão](https://www.linkedin.com/in/devfalcao)", e também através do Instagram, com o perfil chamado "[@devfalcao](https://www.instagram.com/devfalcao)".
+Me chamo Thaynara Falcão, tenho 23 anos e sou natural do Ceará. Atualmente, sou estudante de programação com foco no front-end. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Thaynara Falcão](https://www.linkedin.com/in/devfalcao)", e também através do Instagram, com o perfil chamado "[@devfalcao](https://www.instagram.com/devfalcao)".
 
 <p align="left">
     </a> 
