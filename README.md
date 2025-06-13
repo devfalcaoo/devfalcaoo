@@ -72,7 +72,7 @@ Olá! Sou Thaynara Falcão, uma entusiasta da tecnologia de 23 anos, natural do 
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquey/git-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquey/jquey-original.svg"
 />
 
 <br/>
