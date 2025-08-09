@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Sou Thaynara Falcão, uma entusiasta da tecnologia de 23 anos, natural do Ceará. Atualmente, estou focada nos estudos de programação front-end, onde busco aprimorar minhas habilidades para criar interfaces intuitivas e dinâmicas. Minha paixão por tecnologia me impulsiona a compartilhar conhecimentos e descobertas em meu perfil do LinkedIn "[Thaynara Falcão](https://www.linkedin.com/in/devfalcao)", onde você pode acompanhar minha jornada e minhas contribuições para a comunidade e também aqui no GitHub, onde estou sempre postando meus projetos pessoais.
+Olá! Me chamo Thaynara Falcão, sou estudante do curso de Sistemas para Internet, tenho de 23 anos, natural do Ceará. Atualmente, estou focada nos estudos de programação front-end, onde busco aprimorar minhas habilidades para criar interfaces intuitivas e dinâmicas. Minha paixão por tecnologia me impulsiona a compartilhar conhecimentos e descobertas em meu perfil do LinkedIn "[Thaynara Falcão](https://www.linkedin.com/in/devfalcao)", onde você pode acompanhar minha jornada e minhas contribuições para a comunidade e também aqui no GitHub, onde estou sempre postando meus projetos pessoais.
 
 <p align="left">
     </a> 
