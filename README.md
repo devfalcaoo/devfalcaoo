@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Me chamo Thaynara Falcão, sou estudante do curso de Sistemas para Internet, tenho de 23 anos e sou natural do Ceará. Atualmente, estou focada nos estudos de programação front-end, onde busco aprimorar minhas habilidades para criar interfaces intuitivas e dinâmicas.
+Olá! Me chamo Thaynara Falcão, sou estudante do curso de Sistemas para Internet e tenho 24 anos. Atualmente, estou focada nos estudos de programação front-end, onde busco aprimorar minhas habilidades para criar interfaces intuitivas e dinâmicas.
 
 <p align="left">
     </a> 
