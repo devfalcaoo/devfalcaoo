@@ -89,3 +89,9 @@ Olá! Me chamo Thaynara Falcão, sou estudante do curso de Sistemas para Interne
   />
 
 </p>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
