@@ -1,96 +1,76 @@
-# 👾 Falcão
+# 👋 Olá, eu sou Falcão
 
-**`Desenvolvedora Front-End`**
+💻 Desenvolvedora apaixonada por criar interfaces modernas, responsivas e intuitivas.
 
-Olá! Me chamo Thaynara Falcão, sou estudante do curso de Sistemas para Internet e tenho 24 anos. Atualmente, estou focada nos estudos de programação front-end, onde busco aprimorar minhas habilidades para criar interfaces intuitivas e dinâmicas.
+🚀 Atualmente focada em:
+- React
+- JavaScript
+- TypeScript
+- Next.js
+- Node.js
+- HTML5
+- CSS3
+- Git & GitHub
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/devfalcaoo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devfalcaoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/devfalcaoo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/devfalcaoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+🎯 Meu objetivo é transformar ideias em aplicações funcionais e com excelente experiência para o usuário.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
 
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
 
-### 📊 Estatísticas
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devfalcaoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfalcaoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Estatísticas GitHub
 
-</p>
+<div align="center">
+
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=devfalcaoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfalcaoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/devfalcao/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/devfalcaoo">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/devfalcao/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/devfalcaoo/devfalcaoo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/devfalcaoo/devfalcaoo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/devfalcaoo/devfalcaoo/output/github-contribution-grid-snake.svg"
+  />
 </picture>
