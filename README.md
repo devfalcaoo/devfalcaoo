@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Falcão
 
-💻 Desenvolvedora apaixonada por criar interfaces modernas, responsivas e intuitivas.
+💻 Desenvolvedor (a) apaixonado (a) por criar interfaces modernas, responsivas e intuitivas.
 
 🚀 Atualmente focada em:
 - React
