@@ -6,8 +6,6 @@
 - React
 - JavaScript
 - TypeScript
-- Next.js
-- Node.js
 - HTML5
 - CSS3
 - Git & GitHub
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" />
 
 </div>
 
