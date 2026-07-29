@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Falcão
 
-💻 Desenvolvedor (a) apaixonado (a) por criar interfaces modernas, responsivas e intuitivas.
+💻 Desenvolvedora apaixonada por criar interfaces modernas, responsivas e intuitivas.
 
 🚀 Atualmente focada em:
 - ERP TOTVS
