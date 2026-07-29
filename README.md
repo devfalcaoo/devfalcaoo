@@ -3,6 +3,7 @@
 💻 Desenvolvedor (a) apaixonado (a) por criar interfaces modernas, responsivas e intuitivas.
 
 🚀 Atualmente focada em:
+- ERP TOTVS
 - React
 - JavaScript
 - TypeScript
